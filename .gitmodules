@@ -1,6 +1,6 @@
-[submodule "solana-gif-portal-blockchain-program"] 
-  path = solana-gif-portal-blockchain-program
-  url = https://github.com/numoonchld/solana-gif-portal-blockchain-program.git
+[submodule "solanagifportalblockchainprogram"] 
+  path = solanagifportalblockchainprogram
+  url = https://github.com/numoonchld/solanagifportalblockchainprogram
 
 [submodule "solana-gif-portal-frontend"] 
   path = solana-gif-portal-frontend
